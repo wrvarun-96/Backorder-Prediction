@@ -85,20 +85,22 @@ The table below shows the performance metrics of different models on the backord
 ### Screenshots
 
 **Home Page**:
-
-![Home Page](images/home_page.png)
+<img width="1304" alt="home_page" src="https://github.com/user-attachments/assets/dc46088b-c009-46dd-ae37-088973829cd4">
 
 **Predict:**
 
-![Predict](images/predict.png)
+<img width="1280" alt="predict" src="https://github.com/user-attachments/assets/4e54a69d-69a4-472a-9426-8c5352cfe483">
+
 
 **Result (Single Product Prediction):**
 
-![Single Product Prediction](images/single_prediction.png)
+<img width="1280" alt="single_prediction" src="https://github.com/user-attachments/assets/5025247c-9fb9-4bf2-bdb8-e6f71b53c49a">
+
 
 **Result (Batch Prediction):**
 
-![Batch Prediction](images/batch_prediction.png)
+<img width="1280" alt="batch_prediction" src="https://github.com/user-attachments/assets/6087d60b-3e7a-4bbe-9d86-31c182de39f6">
+
 
 ## Development
 
